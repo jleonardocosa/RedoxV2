@@ -1,11 +1,11 @@
 # Copyright (c) 2021 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_REDONGLE_LEFT
-    def_bool $(shields_list_contains,redongle_left)
+config SHIELD_REDOX_LEFT
+    def_bool $(shields_list_contains,redox_left)
 
-config SHIELD_REDONGLE_RIGHT
-    def_bool $(shields_list_contains,redongle_right)
+config SHIELD_REDOX_RIGHT
+    def_bool $(shields_list_contains,redox_right)
 
-config SHIELD_REDONGLE_DONGLE
-	def_bool $(shields_list_contains,redongle_dongle)
+config SHIELD_REDOX_DONGLE
+	def_bool $(shields_list_contains,redox_dongle)
