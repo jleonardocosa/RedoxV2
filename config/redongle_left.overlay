@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "redongle.dtsi"
+#include "redox.dtsi"
 
 &kscan0 {
     col-gpios
