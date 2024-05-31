@@ -1,12 +1,12 @@
 file_format: "1"
-id: redongle
-name: Redongle
+id: redox
+name: Redox
 type: shield
-url: https://github.com/jleonardocosa/redongle
+url: https://github.com/jleonardocosa/RedoxV2
 requires: [pro_micro]
 features:
   - keys
 siblings:
-  - redongle_left
-  - redongle_right
-  - redongle_dongle
+  - redox_left
+  - redox_right
+  - redox_dongle
